@@ -1,0 +1,5 @@
+RecyclerView, 
+Kesimpulan dari hasil pengujian app yang saya lakukan adalah recycler view berfungsi pada penampilan
+aplikasi karena hampir semua aplikasi mmobile biasanya memiliki suatu list tertentu dan recycler view merupakan pilihan yang tepat 
+untuk dapat membuat list.Dan juga recycler view bisa menghemat resource dari smartphone yang membuat 
+program yang kita jalankan akan lebih ringan
